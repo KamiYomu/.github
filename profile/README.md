@@ -15,7 +15,7 @@ A Manga Downloader - KamiYomu is a powerful, extensible manga downloader built f
 
 ## Documentation
 
-[![KamiYomu/KamiYomu.github.io - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KamiYomu&repo=KamiYomu.github.io&show_icons=true&theme=tokyonight&border_radius=8&hide_border=true&description_lines_count=3)](https://KamiYomu.github.io)
+[![KamiYomu/KamiYomu.github.io - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KamiYomu&repo=KamiYomu.github.io&show_icons=true&theme=tokyonight&border_radius=8&hide_border=true&description_lines_count=3)](https://github.com/KamiYomu/KamiYomu.github.io)
 
 ## Crawler Agents
 
