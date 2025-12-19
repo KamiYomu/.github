@@ -1,13 +1,29 @@
 <div align="center">
 
 <a href="http://kamiyomu.github.io" target="_blank">
-    <img src="./logo.png" alt="KamiYomu logo" title="KamiYomu logo" height="150"/>
+    <img src="https://raw.githubusercontent.com/KamiYomu/.github/refs/heads/main/profile/logo.png" alt="KamiYomu logo" title="KamiYomu logo" height="150"/>
 </a>
 
 </div>
+
 # KamiYomu
 
 A Manga Downloader - KamiYomu is a powerful, extensible manga downloader built for manga enthusiasts who want full control over their collection. It scans and downloads manga from supported websites, stores them locally, and lets you host your own private manga reader
+
+[![GitHub followers](https://img.shields.io/github/followers/kamiyomu)](https://github.com/orgs/KamiYomu/followers)
+[![GitHub stars](https://img.shields.io/github/stars/kamiyomu/kamiyomu)](https://github.com/kamiyomu/kamiyomu/stargazers)
+[![GitHub contributors](https://img.shields.io/github/contributors/kamiyomu/kamiyomu)](https://github.com/kamiyomu/kamiyomu/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/kamiyomu/kamiyomu)](https://github.com/kamiyomu/kamiyomu/issues)
+[![GitHub License](https://img.shields.io/github/license/kamiyomu/kamiyomu)](https://github.com/kamiyomu/kamiyomu/blob/main/LICENSE.txt)
+
+
+---
+
+## Community
+
+Join the conversation and be part of the KamiYomu community:
+
+[![Join the discussion on Github](https://img.shields.io/github/discussions/kamiyomu/kamiyomu?logo=github&label=Join%20the%20community)](https://github.com/KamiYomu/KamiYomu/discussions)
 
 ## Web App
 
