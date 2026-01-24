@@ -10,7 +10,7 @@
 
 **KamiYomu** is a high-performance, extensible manga manager designed for enthusiasts who demand total control. 
 
-By leveraging a modular **Crawler Agent** architecture, KamiYomu empowers you to discover, download, and archive manga from any supported source into a private, self-hosted library.
+By leveraging a modular **Crawler Agent** architecture, KamiYomu empowers you to discover, download, reading, and archive manga from any supported source into a private, self-hosted library.
 
 > [!NOTE]
 > **Total Extensibility:** If a site isn't supported yet, you can build your own Crawler Agent in C# and integrate it instantly.
